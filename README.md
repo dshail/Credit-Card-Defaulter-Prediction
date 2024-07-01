@@ -1,5 +1,4 @@
 # Credit-Card-Defaulter-Prediction
-### Project Short Summary
 
 **Title:** Predicting Credit Card Default Payments in Taiwan
 
